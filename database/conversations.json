@@ -1,0 +1,24 @@
+[
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a41"
+    },
+    "participants": [
+      {
+        "$oid": "6a8d3dcde26b2bf466c49a3c"
+      },
+      {
+        "$oid": "6a8d3dcde26b2bf466c49a3b"
+      }
+    ],
+    "swapRequest": {
+      "$oid": "6a8d3dcde26b2bf466c49a40"
+    },
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  }
+]

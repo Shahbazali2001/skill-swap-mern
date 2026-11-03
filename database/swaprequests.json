@@ -1,0 +1,52 @@
+[
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a3f"
+    },
+    "requester": {
+      "$oid": "6a8d3dcde26b2bf466c49a3b"
+    },
+    "receiver": {
+      "$oid": "6a8d3dcde26b2bf466c49a3c"
+    },
+    "offeredSkill": {
+      "$oid": "6a8d3dcde26b2bf466c49a31"
+    },
+    "requestedSkill": {
+      "$oid": "6a8d3dcde26b2bf466c49a32"
+    },
+    "status": "pending",
+    "message": "Hi Ali! I saw you want to learn guitar - I would love to trade for some Python lessons.",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a40"
+    },
+    "requester": {
+      "$oid": "6a8d3dcde26b2bf466c49a3c"
+    },
+    "receiver": {
+      "$oid": "6a8d3dcde26b2bf466c49a3b"
+    },
+    "offeredSkill": {
+      "$oid": "6a8d3dcde26b2bf466c49a32"
+    },
+    "requestedSkill": {
+      "$oid": "6a8d3dcde26b2bf466c49a33"
+    },
+    "status": "accepted",
+    "message": "Would love to learn some design basics from you!",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  }
+]

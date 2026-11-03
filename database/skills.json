@@ -1,0 +1,142 @@
+[
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a31"
+    },
+    "name": "Guitar",
+    "category": "Music",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a32"
+    },
+    "name": "Python Programming",
+    "category": "IT",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a33"
+    },
+    "name": "Graphic Design",
+    "category": "Arts",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a34"
+    },
+    "name": "Photography",
+    "category": "Arts",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a35"
+    },
+    "name": "Excel",
+    "category": "IT",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a36"
+    },
+    "name": "Urdu Calligraphy",
+    "category": "Arts",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a37"
+    },
+    "name": "Video Editing",
+    "category": "IT",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a38"
+    },
+    "name": "Cooking - Pakistani Cuisine",
+    "category": "Cooking",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a39"
+    },
+    "name": "English Speaking",
+    "category": "Languages",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a3a"
+    },
+    "name": "Web Development",
+    "category": "IT",
+    "description": "",
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a42"
+    },
+    "conversation": {
+      "$oid": "6a8d3dcde26b2bf466c49a41"
+    },
+    "sender": {
+      "$oid": "6a8d3dcde26b2bf466c49a3c"
+    },
+    "content": "Hi Hira! Excited to get started on design basics.",
+    "readBy": [
+      {
+        "$oid": "6a8d3dcde26b2bf466c49a3c"
+      }
+    ],
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a43"
+    },
+    "conversation": {
+      "$oid": "6a8d3dcde26b2bf466c49a41"
+    },
+    "sender": {
+      "$oid": "6a8d3dcde26b2bf466c49a3b"
+    },
+    "content": "Hi Ali! Yes, let's do it - are you free this weekend?",
+    "readBy": [
+      {
+        "$oid": "6a8d3dcde26b2bf466c49a3b"
+      }
+    ],
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  }
+]

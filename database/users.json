@@ -1,0 +1,176 @@
+[
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a3b"
+    },
+    "name": "Hira Aslam",
+    "email": "hira@skillswap.test",
+    "passwordHash": "$2a$10$QMvKB07ZvGZuQg1os6dA.eP3R3DCui45Pgyvxgb/cwlXnCFYfbkbW",
+    "bio": "Guitarist and graphic designer. Always up for a good skill trade!",
+    "location": "Peshawar, Pakistan",
+    "profileImageUrl": "",
+    "skillsToTeach": [
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a31"
+        },
+        "level": "Advanced"
+      },
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a33"
+        },
+        "level": "Expert"
+      }
+    ],
+    "skillsToLearn": [
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a32"
+        }
+      },
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a34"
+        }
+      }
+    ],
+    "role": "user",
+    "isVerified": true,
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a3c"
+    },
+    "name": "Ali Khan",
+    "email": "ali@skillswap.test",
+    "passwordHash": "$2a$10$QMvKB07ZvGZuQg1os6dA.eP3R3DCui45Pgyvxgb/cwlXnCFYfbkbW",
+    "bio": "Software engineer who has always wanted to learn guitar.",
+    "location": "Islamabad, Pakistan",
+    "profileImageUrl": "",
+    "skillsToTeach": [
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a32"
+        },
+        "level": "Expert"
+      },
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a3a"
+        },
+        "level": "Advanced"
+      }
+    ],
+    "skillsToLearn": [
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a31"
+        }
+      },
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a37"
+        }
+      }
+    ],
+    "role": "user",
+    "isVerified": true,
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a3d"
+    },
+    "name": "Sarah Noor",
+    "email": "sarah@skillswap.test",
+    "passwordHash": "$2a$10$QMvKB07ZvGZuQg1os6dA.eP3R3DCui45Pgyvxgb/cwlXnCFYfbkbW",
+    "bio": "Freelance photographer and video editor.",
+    "location": "Lahore, Pakistan",
+    "profileImageUrl": "",
+    "skillsToTeach": [
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a34"
+        },
+        "level": "Expert"
+      },
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a37"
+        },
+        "level": "Advanced"
+      }
+    ],
+    "skillsToLearn": [
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a33"
+        }
+      },
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a35"
+        }
+      }
+    ],
+    "role": "user",
+    "isVerified": true,
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a8d3dcde26b2bf466c49a3e"
+    },
+    "name": "Bilal Ahmed",
+    "email": "bilal@skillswap.test",
+    "passwordHash": "$2a$10$QMvKB07ZvGZuQg1os6dA.eP3R3DCui45Pgyvxgb/cwlXnCFYfbkbW",
+    "bio": "Calligraphy artist exploring digital skills.",
+    "location": "Karachi, Pakistan",
+    "profileImageUrl": "",
+    "skillsToTeach": [
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a36"
+        },
+        "level": "Expert"
+      }
+    ],
+    "skillsToLearn": [
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a3a"
+        }
+      },
+      {
+        "skill": {
+          "$oid": "6a8d3dcde26b2bf466c49a39"
+        }
+      }
+    ],
+    "role": "user",
+    "isVerified": true,
+    "createdAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-25T07:01:33.572Z"
+    }
+  }
+]
