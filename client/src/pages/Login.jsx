@@ -50,7 +50,7 @@ export default function Login() {
 
         <h1 className="text-xl font-black text-slate-900 mb-1">Welcome back</h1>
         <p className="text-xs text-slate-500 mb-6">
-          Sign in to exchange skills with peers in your community (FR1)
+          Sign in to exchange skills with peers in your community
         </p>
 
         {error && (
