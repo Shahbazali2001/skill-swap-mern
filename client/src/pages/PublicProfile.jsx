@@ -170,7 +170,7 @@ export default function PublicProfile() {
           {profileUser.bio && (
             <div className="mt-6 pt-6 border-t border-slate-100">
               <h3 className="text-xs font-extrabold text-slate-400 uppercase tracking-wider mb-2">
-                About &amp; Background (FR2)
+                About &amp; Background
               </h3>
               <p className="text-xs sm:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
                 {profileUser.bio}
