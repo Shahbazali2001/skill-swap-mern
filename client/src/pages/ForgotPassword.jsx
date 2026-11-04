@@ -114,9 +114,7 @@ export default function ForgotPassword() {
             <KeyRound className="w-6 h-6" />
           </div>
           <h1 className="text-xl font-black text-slate-900">
-            {step === 1
-              ? "Reset Your Password (FR1)"
-              : "Enter Verification Code"}
+            {step === 1 ? "Reset Your Password " : "Enter Verification Code"}
           </h1>
           <p className="text-xs text-slate-500 mt-1">
             {step === 1
