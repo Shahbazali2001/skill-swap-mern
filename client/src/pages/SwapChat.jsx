@@ -161,7 +161,7 @@ export default function SwapChat() {
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
           <div>
             <h1 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              Swap Pipeline &amp; Real-Time Chat (FR6, FR7)
+              Swap Pipeline &amp; Real-Time Chat
             </h1>
             <p className="text-xs sm:text-sm text-slate-500 mt-1">
               Manage learning exchange partnerships, coordinate schedules, and
