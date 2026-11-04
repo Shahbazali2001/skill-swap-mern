@@ -47,28 +47,24 @@ const HOW_IT_WORKS_STEPS = [
     title: "Create Your Profile & Catalog Skills",
     desc: "List the expertise you can teach and what you yearn to learn with defined proficiency levels.",
     icon: <GraduationCap className="w-6 h-6 text-primary" />,
-    badge: "FR2 & FR3",
   },
   {
     step: "02",
     title: "Discover Reciprocal Matches",
     desc: "Our intelligent matching engine automatically pairs your teaching skills with matching learning interests.",
     icon: <Sparkles className="w-6 h-6 text-teal" />,
-    badge: "FR4 & FR5",
   },
   {
     step: "03",
     title: "Exchange & Chat in Real Time",
     desc: "Send swap requests, schedule video or local sessions, and collaborate over live encrypted chat.",
     icon: <MessageSquare className="w-6 h-6 text-indigo-500" />,
-    badge: "FR6 & FR7",
   },
   {
     step: "04",
     title: "Build Verified Reputation",
     desc: "Rate completed lessons and build your community Trust Score to unlock verified badges and tiers.",
     icon: <Award className="w-6 h-6 text-amber-500" />,
-    badge: "FR8 & FR9",
   },
 ];
 
@@ -336,7 +332,7 @@ export default function LandingPage() {
       <section id="skills" className="py-20 px-4 sm:px-6 max-w-7xl mx-auto">
         <div className="text-center max-w-2xl mx-auto mb-12">
           <span className="text-xs font-extrabold uppercase tracking-wider text-primary bg-primary-light/70 px-3 py-1 rounded-full">
-            Categorized Skill Catalog (FR3)
+            Categorized Skill Catalog
           </span>
           <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-3 tracking-tight">
             Exchange Across Any Passion &amp; Profession
