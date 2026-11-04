@@ -263,7 +263,7 @@ export default function PublicProfile() {
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6 pb-6 border-b border-slate-100">
             <div>
               <h3 className="text-base font-black text-slate-900">
-                Community Reputation &amp; Reviews (FR8, FR9)
+                Community Reputation &amp; Reviews
               </h3>
               <p className="text-xs text-slate-500 mt-0.5">
                 Authentic ratings submitted after completed peer skill exchanges
