@@ -437,7 +437,7 @@ export default function LandingPage() {
       >
         <div className="text-center max-w-2xl mx-auto mb-14">
           <span className="text-xs font-extrabold uppercase tracking-wider text-amber-700 bg-amber-100 px-3 py-1 rounded-full">
-            Community Trust (FR8 &amp; FR9)
+            Community Trust
           </span>
           <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-3 tracking-tight">
             Real Feedback from Real Swappers
