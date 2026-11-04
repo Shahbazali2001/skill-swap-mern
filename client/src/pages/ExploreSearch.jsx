@@ -100,7 +100,7 @@ export default function ExploreSearch() {
         <div className="max-w-7xl mx-auto">
           <div className="max-w-2xl">
             <h1 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              Advanced Skill Search Engine (FR4)
+              Advanced Skill Search Engine for Community Partners
             </h1>
             <p className="text-xs sm:text-sm text-slate-500 mt-1">
               Find community partners by specific skills, expertise tiers,
