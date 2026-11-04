@@ -234,7 +234,7 @@ export default function AdminPanel() {
             </div>
             <div>
               <h1 className="text-2xl font-black tracking-tight">
-                Administrative Control Panel (FR12)
+                Administrative Control Panel
               </h1>
               <p className="text-xs text-slate-400 mt-0.5">
                 Moderation dashboard, skill catalog management, user accounts,
@@ -439,7 +439,7 @@ export default function AdminPanel() {
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-slate-100">
               <div>
                 <h2 className="text-base font-black text-slate-900">
-                  User Moderation (FR12)
+                  User Moderation
                 </h2>
                 <p className="text-xs text-slate-500">
                   Manage user statuses, roles, and ban offending accounts
@@ -558,9 +558,7 @@ export default function AdminPanel() {
             {/* Left: Add / Edit Skill Form */}
             <div className="lg:col-span-5 bg-white border border-slate-200/80 rounded-3xl p-6 shadow-sm">
               <h2 className="text-base font-black text-slate-900 mb-4">
-                {editingSkill
-                  ? "Edit Catalog Skill"
-                  : "Add Skill to Catalog (FR3, FR12)"}
+                {editingSkill ? "Edit Catalog Skill" : "Add Skill to Catalog"}
               </h2>
 
               <form onSubmit={handleCreateOrUpdateSkill} className="space-y-4">
@@ -715,7 +713,7 @@ export default function AdminPanel() {
           <div className="bg-white border border-slate-200/80 rounded-3xl p-6 shadow-sm space-y-4">
             <div>
               <h2 className="text-base font-black text-slate-900">
-                Content Moderation &amp; User Reports (FR12)
+                Content Moderation &amp; User Reports
               </h2>
               <p className="text-xs text-slate-500">
                 Review community reports and take decisive moderation actions
