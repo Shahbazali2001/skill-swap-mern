@@ -284,7 +284,7 @@ export default function Dashboard() {
             <div className="bg-white border border-slate-200/80 rounded-3xl p-6 shadow-sm">
               <div className="flex items-center justify-between mb-4">
                 <h2 className="text-sm font-black text-slate-900">
-                  Profile Details (FR2)
+                  Profile Details
                 </h2>
                 <Link
                   to={`/profile/${user._id || user.id}`}
