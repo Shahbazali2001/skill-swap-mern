@@ -375,7 +375,7 @@ export default function Dashboard() {
             <div className="bg-white border border-slate-200/80 rounded-3xl p-6 shadow-sm">
               <div className="flex items-center justify-between mb-3">
                 <h2 className="text-sm font-black text-slate-900">
-                  Skills to Teach (FR3)
+                  Skills to Teach
                 </h2>
                 <span className="text-[11px] font-bold text-primary">
                   {(user.skillsToTeach || []).length} active
@@ -422,7 +422,7 @@ export default function Dashboard() {
             <div className="bg-white border border-slate-200/80 rounded-3xl p-6 shadow-sm">
               <div className="flex items-center justify-between mb-3">
                 <h2 className="text-sm font-black text-slate-900">
-                  Skills to Learn (FR3)
+                  Skills to Learn
                 </h2>
                 <span className="text-[11px] font-bold text-pink">
                   {(user.skillsToLearn || []).length} on wishlist
@@ -472,7 +472,7 @@ export default function Dashboard() {
                 <div>
                   <h2 className="text-base font-black text-slate-900 flex items-center gap-2">
                     <Sparkles className="w-5 h-5 text-teal" />
-                    <span>Suggested Skill Matches (FR5)</span>
+                    <span>Suggested Skill Matches </span>
                   </h2>
                   <p className="text-xs text-slate-500 mt-0.5">
                     Calculated based on reciprocal skill overlap and community
@@ -523,7 +523,7 @@ export default function Dashboard() {
                 <div className="flex items-center justify-between mb-3">
                   <h2 className="text-sm font-black text-slate-900 flex items-center gap-2">
                     <Eye className="w-4 h-4 text-slate-500" />
-                    <span>Recently Viewed Profiles (FR10)</span>
+                    <span>Recently Viewed Profiles</span>
                   </h2>
                 </div>
 
