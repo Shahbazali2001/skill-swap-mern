@@ -51,7 +51,7 @@ export default function Register() {
           Create your account
         </h1>
         <p className="text-xs text-slate-500 mb-6">
-          Join the peer-to-peer knowledge barter community (FR1)
+          Join the peer-to-peer knowledge barter community
         </p>
 
         {error && (
