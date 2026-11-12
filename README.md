@@ -384,6 +384,19 @@ node test_all_fr.js
 
 ---
 
+## 🌿 Git Branches & Version Control (Client & Server)
+
+This repository manages both the **Client (React + Vite frontend)** and **Server (Node.js + Express + Socket.io backend)** within a unified monorepo branching structure.
+
+### Active Repository Branches
+
+| Branch Name | Scope | Status | Description |
+| :--- | :---: | :---: | :--- |
+| **`main`** | `client/` & `server/` | **Default / Production** | Contains the complete, stable full-stack implementation, including the Express/Socket.io backend initialization (`server/`), database seeds (`database/`), clean production UI views, and favicon assets (`client/`). |
+| **`fixes-fr-text-frontend`** | `client/` | **Frontend Refinement** | Dedicated client-side branch for removing bugs from UI headings across `LandingPage`, `Dashboard`, `ExploreSearch`, `PublicProfile`, `SwapChat`, `AdminPanel`, `Login`, `Register`, and `ForgotPassword` for a cleaner end-user presentation. |
+
+---
+
 ## 📄 License & Attribution
 
 Developed as a Final Year Project for **CS619 — Virtual University of Pakistan**.  
